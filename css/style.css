@@ -29,7 +29,7 @@ body {
     font-size: 20px;
     line-height: 36px; }
   .hi__list li {
-    background: url(../img/icons/icon.png) 0 8px no-repeat;
+    background: url(/img/icons/icon.png) 0 8px no-repeat;
     padding: 0px 0px 0px 36px; }
 
 .container {
